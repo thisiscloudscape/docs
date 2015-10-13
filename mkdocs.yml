@@ -1,5 +1,6 @@
+# encoding: utf-8
 site_name: 云思凯普 文档中心
 theme: readthedocs
 pages:
-- 首页:'index.md'
-- 试用手册:'demo.md'
+- 首页: 'index.md'
+- 试用手册: 'demo.md'
