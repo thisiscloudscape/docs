@@ -2,23 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Home"
+            "text": "\u6b22\u8fce\u6765\u5230\u4e91\u601d\u51ef\u666e\u6587\u6863\u4e2d\u5fc3", 
+            "title": "\u9996\u9875"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#_1", 
+            "text": "", 
+            "title": "\u6b22\u8fce\u6765\u5230\u4e91\u601d\u51ef\u666e\u6587\u6863\u4e2d\u5fc3"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/demo/", 
+            "text": "\u4e91\u684c\u9762\u8bd5\u7528\u624b\u518c", 
+            "title": "\u8bd5\u7528\u624b\u518c"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/demo/#_1", 
+            "text": "", 
+            "title": "\u4e91\u684c\u9762\u8bd5\u7528\u624b\u518c"
         }
     ]
 }
