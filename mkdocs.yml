@@ -1,2 +1,5 @@
-site_name: Cloudscape 云思凯普 文档中心
+site_name: 云思凯普 文档中心
 theme: readthedocs
+pages:
+- [index.md,首页]
+- [demo.md,试用手册]
